@@ -7,7 +7,7 @@
   <img src="images/tecnologias-tasks-api-rest.png" width="300">
 </div>
 
-API REST desarrollada con **Spring Boot** para la gestión de tareas (*tasks*), con persistencia en base de datos, documentación automática mediante **Swagger / OpenAPI** y un enfoque claro **docente y práctico**.
+API REST desarrollada con **Spring Boot** para la gestión de tareas (*tasks*), con persistencia en base de datos, documentación automática mediante **Swagger / OpenAPI**.
 
 ---
 
