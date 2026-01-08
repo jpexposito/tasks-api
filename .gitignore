@@ -112,7 +112,6 @@ coverage/
 *.exec
 *.lcov
 *.coverage
-*.xml
 /.pytest_cache/
 .mypy_cache/
 
