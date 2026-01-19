@@ -12,7 +12,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/v1/tasks")
 @Tag(name = "Tasks API")
-@CrossOrigin
+@CrossOrigin(origins = "http://localhost:4200")
 public class TaskController {
 
     private final TaskRepository repo;
