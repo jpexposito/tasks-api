@@ -74,6 +74,7 @@ src/main/java
     │           └── TaskPersistenceAdapter.java
     │
     └── infrastructure
+        └── (configuración futura)
 ```
 
 ### 🧠 Descripción de capas
